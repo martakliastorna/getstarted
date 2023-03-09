@@ -446,6 +446,7 @@ left: 22%;
 }
 .unfold {
   padding-top: 1.5rem;
+  cursor: pointer;
 }
 .unfold-visible {
   display: flex;
